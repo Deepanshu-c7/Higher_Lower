@@ -6,7 +6,7 @@
 
 ->Basically You have to guess a number(Randomly generated), and if you correctly guess the number,the numbers changes.
 
-# future additions that will be brought
+# future additions :
  ->improvement in the Interface.
  
  ->attaching reward system when the user guess the right input.
